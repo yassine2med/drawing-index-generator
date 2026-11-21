@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="drawing-index-generator" width="100%"></p>
+
 # drawing-index-generator
 
 Builds a drawing index (sheet number, title, latest revision, discipline) from the file names in a drawings folder. Standard library only.
